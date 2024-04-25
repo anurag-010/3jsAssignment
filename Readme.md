@@ -62,4 +62,6 @@ This will start a development server and open the project in your default web br
 ## Important Links
 - https://poly.pizza/m/cSCAtmKKFuy (Model link) - PolyPizza
 - Swamp Island by zeoxo [CC-BY] via Poly Pizza
+- Font taken from Google Fonts
+  
  
